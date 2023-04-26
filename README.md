@@ -15,7 +15,7 @@ A longer and more up to date demo is available here : [Demo](https://youtu.be/3k
 
 - Clone this repo to the folder of your choice:
 
-`git clone https://github.com/sd65/MiniVim.git`
+`git@github.com:nd-roy/MiniVim.git`
 
 - Go inside this repo:
 
